@@ -45,6 +45,7 @@ OpsoleMigrate automates the complex process through three intelligent automated 
 
 ## 2.1 OpsoleMigrate High-Level Workflow
 
+![OpsoleMigrate Workflow](https://raw.githubusercontent.com/sreekumarpg/OpsolemigrtaeDoc/refs/heads/main/workflow.png)
 ---
 
 ### **Phase 1 — Initiation (User-triggered)**
